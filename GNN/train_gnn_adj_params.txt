@@ -1,0 +1,24 @@
+# EXP_ID                DATA_ROOT                                                                                                                      EPOCHS  LR      NLAYERS  LOOP_ON  LOOP_LAMBDA
+L1_nopen               /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    1        0        0.0
+L2_nopen               /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    2        0        0.0
+L3_nopen               /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    3        0        0.0
+L5_nopen               /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    5        0        0.0
+L10_nopen               /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    10        0        0.0
+
+L1_loop_1em2           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    1        1        1e-2
+L2_loop_1em2           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    2        1        1e-2
+L3_loop_1em2           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    3        1        1e-2
+L5_loop_1em2           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    5        1        1e-2
+L10_loop_1em2           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    10        1        1e-2
+
+L1_loop_1em1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    1        1        1e-1
+L2_loop_1em1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    2        1        1e-1
+L3_loop_1em1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    3        1        1e-1
+L5_loop_1em1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    5        1        1e-1
+L10_loop_1em1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    10        1        1e-1
+
+L3_loop_1em0           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    3        1        1e0
+L3_loop_1ep1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    3        1        1e1
+
+L2_loop_1em0           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    2        1        1e0
+L2_loop_1ep1           /projects/nctracer/Junaid/TracingGNN/data/L6/v2_find_seeds_21x21x7_noisy_localcoords_cnn/run1_cnn_mat_full                      500      1e-3    2        1        1e1
